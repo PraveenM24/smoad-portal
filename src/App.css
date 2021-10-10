@@ -1,0 +1,13 @@
+.app{
+    display:flex;
+    flex-direction:row;
+}
+.app__body{
+    display: flex;
+    flex: 1;
+    margin-left: 10px;
+    margin-bottom: 500px;
+    flex-direction: column;
+    background: #F2F2F2;
+    padding: 25px;
+}
